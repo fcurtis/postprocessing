@@ -1,3 +1,1 @@
-Post processing scripts for 
-use with molecule crystal Structure() objects output
-from the GAtor genetic algorithm.
+Post processing scripts for use with molecular crystal json files output from the GAtor genetic algorithm.
